@@ -1,6 +1,5 @@
 👋 Hi, I’m @kael1st
-Game Designer & C++ Focused Programming
-Interested in Web designing & Digital Marketing
+Intested in Reverse engineering/Java Script and Discord bot especially
 
 <!---
 kael1st/kael1st is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
